@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.1",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ShooterAssetPack",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"Windows"
+	]
+}
